@@ -1,1 +1,71 @@
-id,relative_path,category,priority,note
+id,relative_path,category,priority,source,note
+base_001,base/base_001.jpg,base,normal,visdrone,"objs=18, pv=18"
+base_002,base/base_002.jpg,base,normal,visdrone,"objs=75, pv=51"
+base_003,base/base_003.jpg,base,normal,visdrone,"objs=68, pv=58"
+base_004,base/base_004.jpg,base,normal,visdrone,"objs=13, pv=13"
+base_005,base/base_005.jpg,base,normal,visdrone,"objs=19, pv=19"
+base_006,base/base_006.jpg,base,normal,visdrone,"objs=12, pv=11"
+base_007,base/base_007.jpg,base,normal,visdrone,"objs=34, pv=29"
+base_008,base/base_008.jpg,base,normal,visdrone,"objs=71, pv=37"
+base_009,base/base_009.jpg,base,normal,visdrone,"objs=25, pv=24"
+base_010,base/base_010.jpg,base,normal,visdrone,"objs=34, pv=29"
+base_011,base/base_011.jpg,base,normal,visdrone,"objs=13, pv=13"
+base_012,base/base_012.jpg,base,normal,visdrone,"objs=29, pv=29"
+base_013,base/base_013.jpg,base,normal,visdrone,"objs=17, pv=14"
+base_014,base/base_014.jpg,base,normal,visdrone,"objs=78, pv=43"
+base_015,base/base_015.jpg,base,normal,visdrone,"objs=8, pv=8"
+base_016,base/base_016.jpg,base,normal,visdrone,"objs=28, pv=20"
+base_017,base/base_017.jpg,base,normal,visdrone,"objs=40, pv=36"
+base_018,base/base_018.jpg,base,normal,visdrone,"objs=13, pv=7"
+base_019,base/base_019.jpg,base,normal,visdrone,"objs=11, pv=10"
+base_020,base/base_020.jpg,base,normal,visdrone,"objs=33, pv=29"
+base_021,base/base_021.jpg,base,normal,visdrone,"objs=24, pv=24"
+base_022,base/base_022.jpg,base,normal,visdrone,"objs=69, pv=66"
+base_023,base/base_023.jpg,base,normal,visdrone,"objs=2, pv=2"
+base_024,base/base_024.jpg,base,normal,visdrone,"objs=33, pv=25"
+base_025,base/base_025.jpg,base,normal,visdrone,"objs=36, pv=36"
+base_026,base/base_026.jpg,base,normal,visdrone,"objs=26, pv=16"
+base_027,base/base_027.jpg,base,normal,visdrone,"objs=63, pv=39"
+base_028,base/base_028.jpg,base,normal,visdrone,"objs=12, pv=8"
+base_029,base/base_029.jpg,base,normal,visdrone,"objs=137, pv=90"
+base_030,base/base_030.jpg,base,normal,visdrone,"objs=95, pv=83"
+base_031,base/base_031.jpg,base,normal,visdrone,"objs=113, pv=83"
+base_032,base/base_032.jpg,base,normal,visdrone,"objs=12, pv=12"
+base_033,base/base_033.jpg,base,normal,visdrone,"objs=81, pv=76"
+base_034,base/base_034.jpg,base,normal,visdrone,"objs=83, pv=81"
+base_035,base/base_035.jpg,base,normal,visdrone,"objs=130, pv=93"
+base_036,base/base_036.jpg,base,normal,visdrone,"objs=47, pv=42"
+base_037,base/base_037.jpg,base,normal,visdrone,"objs=63, pv=39"
+base_038,base/base_038.jpg,base,normal,visdrone,"objs=93, pv=93"
+base_039,base/base_039.jpg,base,normal,visdrone,"objs=33, pv=33"
+base_040,base/base_040.jpg,base,normal,visdrone,"objs=41, pv=41"
+base_041,base/base_041.jpg,base,normal,visdrone,"objs=31, pv=31"
+base_042,base/base_042.jpg,base,normal,visdrone,"objs=12, pv=10"
+base_043,base/base_043.jpg,base,normal,visdrone,"objs=15, pv=15"
+base_044,base/base_044.jpg,base,normal,visdrone,"objs=5, pv=5"
+base_045,base/base_045.jpg,base,normal,visdrone,"objs=11, pv=11"
+base_046,base/base_046.jpg,base,normal,visdrone,"objs=65, pv=61"
+base_047,base/base_047.jpg,base,normal,visdrone,"objs=15, pv=15"
+base_048,base/base_048.jpg,base,normal,visdrone,"objs=77, pv=60"
+base_049,base/base_049.jpg,base,normal,visdrone,"objs=18, pv=16"
+base_050,base/base_050.jpg,base,normal,visdrone,"objs=13, pv=12"
+accident_001,emergency/accident/accident_001.png,accident,high,manual,
+accident_002,emergency/accident/accident_002.png,accident,high,manual,
+accident_003,emergency/accident/accident_003.png,accident,high,manual,
+accident_004,emergency/accident/accident_004.png,accident,high,manual,
+accident_005,emergency/accident/accident_005.png,accident,high,manual,
+accident_006,emergency/accident/accident_006.png,accident,high,manual,
+accident_007,emergency/accident/accident_007.png,accident,high,manual,
+fire_001,emergency/fire/fire_001.png,fire,high,manual,
+fire_002,emergency/fire/fire_002.png,fire,high,manual,
+fire_003,emergency/fire/fire_003.png,fire,high,manual,
+fire_004,emergency/fire/fire_004.png,fire,high,manual,
+fire_005,emergency/fire/fire_005.png,fire,high,manual,
+fire_006,emergency/fire/fire_006.png,fire,high,manual,
+fire_007,emergency/fire/fire_007.png,fire,high,manual,
+smoke_001,emergency/smoke/smoke_001.png,smoke,high,manual,
+smoke_002,emergency/smoke/smoke_002.png,smoke,high,manual,
+smoke_003,emergency/smoke/smoke_003.png,smoke,high,manual,
+smoke_004,emergency/smoke/smoke_004.png,smoke,high,manual,
+smoke_005,emergency/smoke/smoke_005.png,smoke,high,manual,
+smoke_006,emergency/smoke/smoke_006.png,smoke,high,manual,
